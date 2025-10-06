@@ -43,4 +43,7 @@ Detección de anomalías
 
 ¿Qué comercios específicos presentan un número inusual de fraudes?
 
+Dataset:
+ [Credit Card Transactions Fraud Detection Dataset ](https://www.kaggle.com/datasets/kartik2112/fraud-detection?resource=download)
+
 ¿Existen patrones como muchas compras pequeñas seguidas de una compra grande fraudulenta?
