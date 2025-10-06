@@ -9,3 +9,38 @@ Importancia y relevancia
 Detectar fraudes con tarjeta de crédito que ocasionan pérdidas significativas a bancos, comercios y consumidores.
 Prevenir el robo de información financiera de clientes y reforzar la seguridad en medios de pagos digitales.
 Incrementar la confianza en las transacciones digitales.
+
+Planteamiento de preguntas:
+Análisis general de transacciones
+¿Cuáles son las categorías con más compras?
+
+¿Qué comercios reciben más transacciones?
+
+¿En qué ciudades se realizan más compras?
+
+¿Cómo varían las compras por hora del día o día de la semana?
+
+Fraude por transacción
+¿Qué porcentaje de las transacciones son fraudulentas?
+
+¿Qué categorías de compra tienen más fraudes?
+
+¿Qué ciudades o estados concentran más fraude?
+
+¿Los fraudes ocurren más en ciertas horas del día (ej. madrugada)?
+
+¿Existen clientes con múltiples fraudes en su historial?
+
+Patrones de clientes
+¿Qué perfil de cliente (edad, género) aparece más afectado por fraudes?
+
+¿Hay clientes que realizan compras en ciudades distintas en un corto periodo de tiempo? (potencial anomalía).
+
+¿Se puede identificar a clientes con un comportamiento atípico comparado con el promedio?
+
+Detección de anomalías
+¿Qué transacciones fraudulentas son de montos muy altos o bajos respecto al promedio?
+
+¿Qué comercios específicos presentan un número inusual de fraudes?
+
+¿Existen patrones como muchas compras pequeñas seguidas de una compra grande fraudulenta?
